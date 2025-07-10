@@ -97,4 +97,5 @@ The 'create-deployment' applicationset will become visible after a few minutes.
 
 As the **bootstrap** folder is monitored, when a new file like **workload-applicationset.yaml** is added, it gets processed.
 
+
 ![workload-appofapps-monitor](/static/images/workload-appofapps-monitor.png)
